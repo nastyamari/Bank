@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="africaZAR">ZAR</string>
+    <string name="russianRUB">RUB</string>
+    <string name="singaporeSGD">SGD</string>
+    <string name="turkishTRY">TRY</string>
+    <string name="americanUSD">USD</string>
+
+    <string name="america">Американский доллар</string>
+    <string name="africa">Африканский</string>
+    <string name="russian">Русский рубль</string>
+    <string name="singapore">Сингабурский доллар</string>
+    <string name="turkish">Лира</string>
+
+    <string name="flag">flag</string>
+    <string name="rasp2">09:00-20:00</string>
+    <string name="adress">Москва, ул.Вавилова, д.7</string>
+    <string name="sost">Работает</string>
+    <string name="rasp1">00:00-00:00</string>
+</resources>
